@@ -1,0 +1,519 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#lin>img{
+    border-radius: 10px;
+}
+
+#cover{
+    background-image: url(Dark-grey-texture-abstract-hd-wallpaper.jpg);
+    height: 900px;
+    width: 100%;
+}
+#my_name{
+    position: relative;
+    text-align: center;
+    top: 150px;
+    font-size:70px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.4285;
+    color: #fff;
+}
+#student{
+    position: relative;
+    text-align: center;
+    top: 155px;
+    font-size:50px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    color: #88E4CA;
+}
+
+h3{
+    position: relative;
+    text-align: center;
+    top: 165px;
+    font-size:40px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    color:white;
+}
+#college_name{
+    position: relative;
+    text-align: center;
+    top: 180px;
+    font-size:44px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #88E4CA;
+}
+#button{
+    position: relative;
+    position: center;
+    left: 580px;
+    top: 250px;
+    font-size:20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 15px 20px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    cursor: pointer;
+    
+}
+
+#button:hover{
+    background-color: #52C2A2; 
+    transition-delay: 0.1546s;
+}
+
+#first{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    position: relative;
+    border-bottom-style:inset;
+}
+#first>img{
+    border-radius: 12px;
+    position: absolute;
+    left: 150px;
+    top: 22px;
+}
+
+
+ul li{
+    position: relative;
+    float: left;
+    list-style: none;
+
+    padding: 2.83% 4.33%;   
+    background-color: #00d999;
+    color: white;
+}
+a{
+    color: black;
+}
+ul li:hover{
+    color: #00d999;
+    cursor: pointer;
+   background-color: white;
+    color: gray;
+}
+#second{
+      position: relative;;
+}
+
+#parr_heading{
+    color: #3a3a3a;
+    font-size: 40px;
+    padding-bottom: 18px;
+    
+    margin-top: -400px;
+    margin-left: 590px;
+}
+#parr_heading>span{
+    color: #00d999;
+    
+}
+#line{
+   margin-left: 600px;
+    margin-top: -20px;
+}
+
+#my_image{
+    position: relative;
+    left: 63px;
+   margin-top:  100px;
+    border-radius: 105px;
+    box-shadow: 50px 50px 50px gray;
+    vertical-align: middle
+}
+
+
+
+#my_introduction{
+    color: #3a3a3a;
+    font-size: 20px;
+    padding-bottom: 18px;
+    
+    margin-top: -30px;
+    margin-left: 600px;
+}
+#butto{
+    position: relative;
+    left: 610px;
+    top: 50px;
+    font-size:17px;
+    color: #00d999;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 15px 20px;
+    background-color: transparent;
+    border: 2px solid #00d999;
+    
+}
+#butto:hover{
+    background-color: #00d999;
+    color: white;
+    cursor: pointer;
+    }
+#third{
+    position: relative;
+    width: 100%;
+    background-color: white;
+}
+#important_line{
+    color: black;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    margin-top: 120px;
+}
+#fourth{
+    width: 100%;
+     height: 750px;
+    background-color: white;
+    position: relative;
+    }
+#achievements{
+    position: relative;
+    color: white;
+    font-size: 40px;
+    padding-bottom: 18px;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 100px;
+    background-color: gray;
+
+
+}
+table{
+    margin-top: 100px;
+    margin-left: 85px;
+    width: 90%;
+    border-radius: 40px;
+}
+table,th,td{
+    
+    border: 1.5px solid black;
+    border-collapse: collapse;
+    padding: 2%;
+    text-align: center;
+    font-size: 19;
+
+}
+#fivth{
+    width: 100%;
+    position: relative;
+    height: 730px;
+}
+#skil{
+     position: relative;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+}
+.container {
+  width: 70%;
+  background-color: #ddd;
+    border-radius: 50px;
+    
+    margin-left: 150px;
+}
+
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 30px;
+  color: white;
+}
+
+.html {width: 60%; background-color: #4CAF50;}
+.css {width: 50%; background-color: #2196F3;}
+.js {width: 25%; background-color: #f44336;}
+.c {width: 70%; background-color: #00d999;}
+.java {width: 50%; background-color: #2196F3;}
+.algorithms {width: 20%; background-color: red;}
+#skill_chart>p{
+    position: relative;
+    font-size: 20px;
+    margin-left: 150px;
+    margin-top:30px;
+    padding: 5px;
+   
+}
+#sixth{
+    background-color:;
+    width: 100%;
+    height: 770px;
+    position: relative;
+    
+}
+#gallery_font{
+   color: black;
+    font-size: 40px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+#Gallery{
+    
+    margin-left:50px;
+    width: 100%;
+}
+#thumbs{
+    width: 250px;
+    height: 250px;
+    padding: 3px;
+    float: left;
+
+    padding-bottom: 20px;
+    
+}
+#thumbs img{
+    width: 85%;
+    height: 100%;
+    border: 2px solid black;
+    border-bottom-style: groove;
+    border-radius: 40px;
+}
+.lightbox{
+    visibility: hidden;
+    opacity: 0;
+    border: none;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(72,73,74,0.7);
+    
+    width: 100%;
+}
+.lightbox:target{
+    visibility: visible;
+    opacity: 1;
+    transition:opacity 10ms;
+}
+
+
+#papa1{
+    color: #3a3a3a;
+    font-size: 20px;
+    padding-bottom: 18px;
+    
+    margin-top: 0px;
+    margin-left: 600px;
+}
+
+.p1{
+    
+     text-decoration:none;
+    color:#00d999;
+}
+
+#aaaa{
+    margin-left: -70px;
+    font-size: 21px;
+    font-family: fantasy;
+}
+#bbbb{
+    margin-left: 0px;
+    font-size: 21px;
+    font-family: fantasy;
+}
+
+
+#myp{
+    position: absolute;
+    top: -10px;
+    border-radius: 100px;
+    border: 10px solid #00d999;
+    left: 550px;
+}
+#my{
+    
+     position: absolute;
+    top: -10px;
+    border-radius: 100px;
+    border: 10px solid #00d999;
+    left: 800px;
+    
+}
+#myp:hover{
+    cursor: pointer;
+    column-rule-color: red;
+}
+#my:hover{
+    cursor: pointer;
+}
+#ret{
+    color: black;
+    margin-left: 560px;
+    margin-top: 280px;
+    position: relative;
+    font-size: 20px;
+}
+#outer{
+    background: white;
+    width: min-content;
+    height: 547px;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 50px 50px 100px black;
+    padding: 10px;
+    
+}
+#inner{
+    position: relative;
+}
+#matter{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 22px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    opacity: 0;
+    text-align: center;
+}
+.lightbox #inner:hover #matter{
+    opacity: 0.7;
+    transition: opacity 1s;
+}
+#inner img{
+    width: 870px;
+   height: 490px;
+}
+.lightbox a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #666666;
+}
+#cross{
+    float: right;
+    color: red;
+}
+#next{
+    float: right;
+    color: black;
+}
+#pre{
+    color: black;
+}
+#quote>img{
+    width: 100%;
+    height: 250px;
+}
+#last{
+            position: relative;
+            height: 220px;
+            
+        }
+                    #lastfirst{
+                        height: 230px;
+                        width: 100%;
+                        background-image: url(wa.jpg)    ;
+                       
+                    }
+                    #lastfirst > p{
+                        margin-left: 590px;
+                        padding: 30;
+                        font-size: .8cm;
+                        color:lightgrey;
+                    }
+                                 #fba{ position: relative;
+                                height: 40px;
+                                width:40px;
+                                left: 450px;
+                                top:30px;
+                                border-radius: 30px;
+                                cursor: pointer;
+}
+                            #twi{
+                                position: relative;
+                                 height: 40px;
+                                width:40px;
+                                border-radius: 30px;
+                               left: 460px;
+                                top: 30px;
+                                
+                                cursor: pointer;
+                            }
+                            #pia{
+                                position: relative;
+                                 height: 40px;
+                                width:40px;
+                                left: 470px;
+                                top: 30px;
+                                border-radius: 30px;
+                                cursor: pointer;
+                            }
+                             #yo1{
+                                position: relative;
+                                 height: 40px;
+                                width:40px;
+                                left: 480px;
+                                top: 30px;
+                                
+                                cursor: pointer;
+                            }
+                             #pw{
+                                position: relative;
+                                 height: 40px;
+                                width:40px;
+                                left: 490px;
+                                top: 30px;
+                                 border-radius: 30px;
+                                cursor: pointer;
+                            }
+                            #tu{
+                                position: relative;
+                                 height: 40px;
+                                width:40px;
+                                left: 500px;
+                                top: 30px;
+                                
+                                cursor: pointer;
+                            }
+
+                             #st{
+                                position:relative;
+                                 height: 40px;
+                                width:40px;
+                                left: 510px;
+                                top: 30px;
+                                border-radius: 30px;
+                                cursor: pointer;
+                            }
+                          #ic{
+                                position: relative;
+                                 height: 40px;
+                                width:40px;
+                                left: 520px;
+                                top: 30px;
+                                border-radius: 30px;
+                                cursor: pointer;
+                            }
+  
+                            #insta{
+                                 position: relative;
+                                 height: 40px;
+                                width:40px;
+                                top: 30px;
+                                left: 530px;
+                                border-radius: 30px;
+                                cursor: pointer;
+                            }
+
+
+* {box-sizing: border-box}
+
+
+#txt{
+    font-size: 40px;
+    color: black;
+    float: right;
+    padding: 10px 50px;
+    position: sticky;
+}
